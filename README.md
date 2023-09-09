@@ -1,2 +1,2 @@
-# The-Calculator-App-Demo
+# The Calculator App Demo
 Calculator App with theme changing and history.
